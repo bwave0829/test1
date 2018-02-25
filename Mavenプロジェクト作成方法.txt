@@ -1,42 +1,42 @@
-Maven‚ÌÝ’è•û–@
+Mavenã®è¨­å®šæ–¹æ³•
 
 
-‚ODðŒ
-ƒ‚P„ðŒ
-Eclipse‚ÉMaven—p‚Ìƒvƒ‰ƒOƒCƒ“‚ªƒCƒ“ƒXƒg[ƒ‹Ï‚Ý‚Å‚ ‚é‚±‚Æ
-@m2e : Eclipse—pMaven“‡
+ï¼ï¼Žæ¡ä»¶
+ï¼œï¼‘ï¼žæ¡ä»¶
+Eclipseã«Mavenç”¨ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ãŒã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ¸ˆã¿ã§ã‚ã‚‹ã“ã¨
+ã€€m2e : Eclipseç”¨Mavençµ±åˆ
 
-ƒ‚Q„Eclipse‚Å‚ÌÝ’è
-ƒEƒBƒ“ƒhƒE^Ý’è^Maven^ƒ†[ƒU[Ý’è
+ï¼œï¼’ï¼žEclipseã§ã®è¨­å®š
+ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ï¼è¨­å®šï¼Mavenï¼ãƒ¦ãƒ¼ã‚¶ãƒ¼è¨­å®š
 
-Eƒ†[ƒU[Ý’èi‘¶Ý‚µ‚Ä‚¢‚È‚¢j
-@C:\Users\kodama\.m2\settings.xml
+ãƒ»ãƒ¦ãƒ¼ã‚¶ãƒ¼è¨­å®šï¼ˆå­˜åœ¨ã—ã¦ã„ãªã„ï¼‰
+ã€€C:\Users\kodama\.m2\settings.xml
 
-Eƒ[ƒJƒ‹EƒŠƒ|ƒWƒgƒŠ[
-@C:\Users\kodama\.m2\repository
-
-
-ŽQÆFhttps://qiita.com/tarosa0001/items/e5667cfa857529900216
+ãƒ»ãƒ­ãƒ¼ã‚«ãƒ«ãƒ»ãƒªãƒã‚¸ãƒˆãƒªãƒ¼
+ã€€C:\Users\kodama\.m2\repository
 
 
-‚PDƒvƒƒWƒFƒNƒg‚Ìì¬
-Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
-
-i‚Pjƒtƒ@ƒCƒ‹^V‹K^MavenƒvƒƒWƒFƒNƒg
-
-i‚QjƒVƒ“ƒvƒ‹‚ÈƒvƒƒWƒFƒNƒgì¬‚ðƒ`ƒFƒbƒN‚µ‚ÄAuŽŸ‚Öv‚ð‰Ÿ‚·
-
-i‚Rj•K{€–Ú“ü—Í
-@EƒOƒ‹[ƒvIDFSelenium2
-@EƒA[ƒeƒBƒtƒ@ƒNƒgIDi‚±‚ê‚ªƒvƒƒWƒFƒNƒg–¼j:Selenium2
-
-uŠ®—¹v‚ð‰Ÿ‚·
+å‚ç…§ï¼šhttps://qiita.com/tarosa0001/items/e5667cfa857529900216
 
 
+ï¼‘ï¼Žãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ä½œæˆ
+Mavenç”¨ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ä½œæˆã™ã‚‹
+
+ï¼ˆï¼‘ï¼‰ãƒ•ã‚¡ã‚¤ãƒ«ï¼æ–°è¦ï¼Mavenãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
+
+ï¼ˆï¼’ï¼‰ã‚·ãƒ³ãƒ—ãƒ«ãªãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆä½œæˆã‚’ãƒã‚§ãƒƒã‚¯ã—ã¦ã€ã€Œæ¬¡ã¸ã€ã‚’æŠ¼ã™
+
+ï¼ˆï¼“ï¼‰å¿…é ˆé …ç›®å…¥åŠ›
+ã€€ãƒ»ã‚°ãƒ«ãƒ¼ãƒ—IDï¼šSelenium2
+ã€€ãƒ»ã‚¢ãƒ¼ãƒ†ã‚£ãƒ•ã‚¡ã‚¯ãƒˆIDï¼ˆã“ã‚ŒãŒãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆåï¼‰:Selenium2
+
+ã€Œå®Œäº†ã€ã‚’æŠ¼ã™
 
 
-‚QDpom.xmlƒtƒ@ƒCƒ‹‚Ì•ÒW
-i‚Pj‰Šúƒtƒ@ƒCƒ‹‚ÌŠm”F
+
+
+ï¼’ï¼Žpom.xmlãƒ•ã‚¡ã‚¤ãƒ«ã®ç·¨é›†
+ï¼ˆï¼‘ï¼‰åˆæœŸãƒ•ã‚¡ã‚¤ãƒ«ã®ç¢ºèª
 #===
 <project xmlns="http://maven.apache.org/POM/4.0.0" 
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -48,8 +48,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 </project>
 #===
 
-i‚QjƒRƒ“ƒpƒCƒ‹—p‚Ìƒvƒ‰ƒOƒCƒ“Ý’è‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðA <version>0.0.1-SNAPSHOT</version>‚ÌŒã‚ë‚É’Ç‰Á‚·‚éB
+ï¼ˆï¼’ï¼‰ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ç”¨ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³è¨­å®šã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ <version>0.0.1-SNAPSHOT</version>ã®å¾Œã‚ã«è¿½åŠ ã™ã‚‹ã€‚
 #===
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -73,8 +73,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 #===
 
 
-i‚RjJUnit‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éujunitv‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðA <version>0.0.1-SNAPSHOT</version>‚ÌŒã‚ë‚É’Ç‰Á‚·‚éB
+ï¼ˆï¼“ï¼‰JUnitã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œjunitã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ <version>0.0.1-SNAPSHOT</version>ã®å¾Œã‚ã«è¿½åŠ ã™ã‚‹ã€‚
 #===
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
@@ -86,8 +86,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 #===
 
 
-i‚Sjyaml‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éusnakeyamlv‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðA <version>0.0.1-SNAPSHOT</version>‚ÌŒã‚ë‚É’Ç‰Á‚·‚éB
+ï¼ˆï¼”ï¼‰yamlã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œsnakeyamlã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ <version>0.0.1-SNAPSHOT</version>ã®å¾Œã‚ã«è¿½åŠ ã™ã‚‹ã€‚
 #===
 <dependencies>
 <dependency>
@@ -100,8 +100,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 
 
 
-i‚Tjselenium—p‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éuselenium-javav‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðAƒ^ƒOu<dependencies>v‚Ì’†‚É’Ç‰Á
+ï¼ˆï¼•ï¼‰seleniumç”¨ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œselenium-javaã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ã‚¿ã‚°ã€Œ<dependencies>ã€ã®ä¸­ã«è¿½åŠ 
 #===
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
@@ -111,8 +111,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 </dependency>
 
 
-i‚Ujselenium—p‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éuselenium-chrome-driverv‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðAƒ^ƒOu<dependencies>v‚Ì’†‚É’Ç‰Á
+ï¼ˆï¼–ï¼‰seleniumç”¨ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œselenium-chrome-driverã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ã‚¿ã‚°ã€Œ<dependencies>ã€ã®ä¸­ã«è¿½åŠ 
 #===
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
 <dependency>
@@ -122,8 +122,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 </dependency>
 #===
 
-i‚Vjselenium—p‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éuselenium-firefox-driverv‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðAƒ^ƒOu<dependencies>v‚Ì’†‚É’Ç‰Á
+ï¼ˆï¼—ï¼‰seleniumç”¨ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œselenium-firefox-driverã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ã‚¿ã‚°ã€Œ<dependencies>ã€ã®ä¸­ã«è¿½åŠ 
 #===
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-firefox-driver -->
 <dependency>
@@ -133,8 +133,8 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 </dependency>
 #===
 
-i‚Wjselenium—p‚Ìƒ‰ƒCƒuƒ‰ƒŠ[‚Å‚ ‚éuselenium-ie-driverv‚Ì’Ç‰Á
-ˆÈ‰º‚ÌÝ’è‚ðAƒ^ƒOu<dependencies>v‚Ì’†‚É’Ç‰Á
+ï¼ˆï¼˜ï¼‰seleniumç”¨ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã§ã‚ã‚‹ã€Œselenium-ie-driverã€ã®è¿½åŠ 
+ä»¥ä¸‹ã®è¨­å®šã‚’ã€ã‚¿ã‚°ã€Œ<dependencies>ã€ã®ä¸­ã«è¿½åŠ 
 #===
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-ie-driver -->
 <dependency>
@@ -146,24 +146,24 @@ Maven—p‚ÌƒvƒƒWƒFƒNƒg‚ðì¬‚·‚é
 
 
 
-œŒŸõ•û–@
-ƒ‚P„ƒvƒ‰ƒOƒCƒ“
+â—æ¤œç´¢æ–¹æ³•
+ï¼œï¼‘ï¼žãƒ—ãƒ©ã‚°ã‚¤ãƒ³
 http://maven.apache.org/plugins/index.html
 
-ƒ‚Q„ƒ‰ƒCƒuƒ‰ƒŠ^ƒhƒ‰ƒCƒo[‚È‚Ç
+ï¼œï¼’ï¼žãƒ©ã‚¤ãƒ–ãƒ©ãƒªï¼ãƒ‰ãƒ©ã‚¤ãƒãƒ¼ãªã©
 https://mvnrepository.com/artifact/org.seleniumhq.selenium
 
 
 
 
-‚RDƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚Ì“o˜^
-src/main/java‚ÉAuHelloWorld.javav‚ð’Ç‰Á‚·‚é
+ï¼“ï¼Žã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ã®ç™»éŒ²
+src/main/javaã«ã€ã€ŒHelloWorld.javaã€ã‚’è¿½åŠ ã™ã‚‹
 
-ƒpƒbƒP[ƒWusrc/main/javav‚ð‰EƒNƒŠƒbƒN‚µ‚ÄAuV‹K^ƒNƒ‰ƒXv‚ð‘I‘ð‚·‚é
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã€Œsrc/main/javaã€ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ã¦ã€ã€Œæ–°è¦ï¼ã‚¯ãƒ©ã‚¹ã€ã‚’é¸æŠžã™ã‚‹
 
-ˆÈ‰º‚ð“ü—Í‚µ‚ÄAuŠ®—¹v‚ð‰Ÿ‚·
-@EƒpƒbƒP[ƒW  Fhello.main
-@E–¼‘O        FHelloWorld
+ä»¥ä¸‹ã‚’å…¥åŠ›ã—ã¦ã€ã€Œå®Œäº†ã€ã‚’æŠ¼ã™
+ã€€ãƒ»ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸  ï¼šhello.main
+ã€€ãƒ»åå‰        ï¼šHelloWorld
 
 HelloWorld.java
 #===
@@ -171,9 +171,9 @@ package hello.main;
 
 public class HelloWorld {
     /**
-     * mainˆ—
-     * •W€o—Í‚ÉHello World‚ð•\Ž¦‚·‚éB
-     * @param args ƒRƒ}ƒ“ƒhˆø”
+     * mainå‡¦ç†
+     * æ¨™æº–å‡ºåŠ›ã«Hello Worldã‚’è¡¨ç¤ºã™ã‚‹ã€‚
+     * @param args ã‚³ãƒžãƒ³ãƒ‰å¼•æ•°
      */
     public static void main(String[] args) {
         System.out.println("Hello Maven World!");
@@ -182,13 +182,13 @@ public class HelloWorld {
 #===
 
 
-‚SDƒCƒ“ƒXƒg[ƒ‹
-iMaven‚ÌuƒCƒ“ƒXƒg[ƒ‹v‚ðŽÀs‚·‚é
-@¦ƒCƒ“ƒXƒg[ƒ‹@F@ƒRƒ“ƒpƒCƒ‹@•@Jarƒtƒ@ƒCƒ‹‚Ìƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚Ö‚Ì”z”õ
+ï¼”ï¼Žã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
+ï¼ˆMavenã®ã€Œã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€ã‚’å®Ÿè¡Œã™ã‚‹
+ã€€â€»ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€€ï¼šã€€ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã€€ï¼†ã€€Jarãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã¸ã®é…å‚™
 
-i‚PjƒCƒ“ƒXƒg[ƒ‹@ŽÀs
-ƒvƒƒWƒFƒNƒguSelenium2v‚ð‰EƒNƒŠƒbƒN‚µ‚ÄAuŽÀs^Maven ƒCƒ“ƒXƒg[ƒ‹v‚ð‘I‘ð‚·‚é
-ƒƒO‚ÌÅŒã‚Ì•û‚ÉuBUILD SUCCESSv‚Æ•\Ž¦‚³‚ê‚é
+ï¼ˆï¼‘ï¼‰ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€€å®Ÿè¡Œ
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã€ŒSelenium2ã€ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ã¦ã€ã€Œå®Ÿè¡Œï¼Maven ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€ã‚’é¸æŠžã™ã‚‹
+ãƒ­ã‚°ã®æœ€å¾Œã®æ–¹ã«ã€ŒBUILD SUCCESSã€ã¨è¡¨ç¤ºã•ã‚Œã‚‹
 
 #===
 [INFO] Scanning for projects...
@@ -232,21 +232,21 @@ public class HelloWorld {
 
 
 
-i‚QjŠm”F
-ƒvƒƒWƒFƒNƒg“à‚Éutargetv‚Æ‚¢‚¤ƒtƒHƒ‹ƒ_‚ªŒ»‚êA‚»‚±‚Éƒrƒ‹ƒh‚µ‚½jarƒtƒ@ƒCƒ‹‚ªŠi”[‚³‚ê‚é
+ï¼ˆï¼’ï¼‰ç¢ºèª
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆå†…ã«ã€Œtargetã€ã¨ã„ã†ãƒ•ã‚©ãƒ«ãƒ€ãŒç¾ã‚Œã€ãã“ã«ãƒ“ãƒ«ãƒ‰ã—ãŸjarãƒ•ã‚¡ã‚¤ãƒ«ãŒæ ¼ç´ã•ã‚Œã‚‹
 
-ŽÀÛ‚ÌƒfƒBƒŒƒNƒgƒŠFD:\MyDoc\work\EclipseWorkSpace\Selenium2\target
+å®Ÿéš›ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªï¼šD:\MyDoc\work\EclipseWorkSpace\Selenium2\target
 
 
 
-‚TD“®ìŠm”F
-i‚Pjƒo[ƒWƒ‡ƒ“Šm”F
+ï¼•ï¼Žå‹•ä½œç¢ºèª
+ï¼ˆï¼‘ï¼‰ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç¢ºèª
 C:\Users\kodama>java -version
 java version "1.8.0_152"
 Java(TM) SE Runtime Environment (build 1.8.0_152-b16)
 Java HotSpot(TM) 64-Bit Server VM (build 25.152-b16, mixed mode)
 
-i‚QjŽÀs
+ï¼ˆï¼’ï¼‰å®Ÿè¡Œ
 d:
 cd D:\MyDoc\work\EclipseWorkSpace\Selenium2\target
 
@@ -256,4 +256,4 @@ Hello Maven World!
 
 
 
-‚UDSelenium—pƒvƒƒOƒ‰ƒ€‚Ìì¬
+ï¼–ï¼ŽSeleniumç”¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ä½œæˆ
